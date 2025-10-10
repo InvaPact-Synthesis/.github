@@ -9,7 +9,7 @@ InvaPact aims to standardise all ecological impacts of biological invasions into
 
 InvaPact is a sister endeavour of <a href="https://github.com/InvaCost">InvaCost</a> and <a href="https://github.com/InvaHealth">InvaHealth</a>.
 
-This sub-section of the InvaPact organisation page is maintained by @<a href="https://github.com/cjabradshaw">cjabradshaw</a>, but anyone associated with InvaPact who has a Github account can contribute.
+This InvaPact Synthesis organisation page is maintained by @<a href="https://github.com/cjabradshaw">cjabradshaw</a>, but anyone associated with InvaPact who has a Github account can contribute.
 
 ### Important information about contributing
 - All contributions are welcome, see this [guide](https://docs.github.com/en/get-started/using-github/github-flow) on best practices when making your contributions. 
